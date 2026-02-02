@@ -11,8 +11,10 @@ public class SequencedCollectionExample {
 
         basket.addAll(List.of("Banana", "Orange", "pineapple", "apple"));
 
-        basket.addFirst("Watermelon"); // todo: new methods: addFirst, removeLast, getFirst...
+        basket.addFirst("Watermelon"); // todo: new methods: addFirst, removeLast, getFirst, reversed...
+        basket.stream().forEach(System.out::println);
 
+        basket.reversed();
         basket.stream().forEach(System.out::println);
     }
 }
