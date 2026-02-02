@@ -1,5 +1,7 @@
 package org.igorborba.java21;
 
+import java.util.stream.Stream;
+
 public class UnnamedVariable {
     public static void main(String[] args) {
         int arrayInteger[] = {5, 4, 8, 11};
