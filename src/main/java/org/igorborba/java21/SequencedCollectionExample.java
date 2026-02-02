@@ -13,8 +13,7 @@ public class SequencedCollectionExample {
 
         basket.addFirst("Watermelon"); // todo: new methods: addFirst, removeLast, getFirst, reversed...
         basket.stream().forEach(System.out::println);
-
-        basket.reversed();
-        basket.stream().forEach(System.out::println);
+        
+        basket.reversed().stream().forEach(System.out::println);
     }
 }
