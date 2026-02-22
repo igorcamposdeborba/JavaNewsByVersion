@@ -31,3 +31,6 @@ tasks.withType<JavaCompile>().configureEach {
 tasks.withType<JavaExec>().configureEach {
     jvmArgs("--enable-preview")
 }
+tasks.withType<Test>().configureEach {
+    jvmArgs("--enable-preview")
+}
