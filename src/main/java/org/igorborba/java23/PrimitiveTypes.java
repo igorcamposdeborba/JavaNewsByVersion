@@ -6,7 +6,7 @@ public class PrimitiveTypes {
 
         Object obj1 = 200; // integer
 
-        if (obj1 instanceof int i && i > 100){
+        if (obj1 instanceof int i && i > 100){ // todo:  instanceof int i   avoids many if-else
             System.out.println("The integer number greater than 100");
         } else if (obj1 instanceof int i && i <= 100) {
             System.out.println("The integer number less or equals to 100");

@@ -1,7 +1,7 @@
 package org.igorborba.java23;
 
 
-import module java.base; // Import all modules for the package (java.uti, java.lang, etc)
+import module java.base; // todo: Import all modules for the package (java.uti, java.lang, etc)
 import java.sql.Date;
 
 public class ImportModule {
