@@ -1,6 +1,6 @@
 package org.igorborba.java19;
 
-// todo: RECORD: create automatically get, set, constructor, equals, hashcode, toString
+// todo: RECORD: create automatically get, set, constructor, equals, hashcode, toString. It's an immutable class
 record Square(double width, double height) {
 }
 

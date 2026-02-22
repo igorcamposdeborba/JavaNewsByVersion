@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"org.igorborba.java23","l":"MarkdownComments"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"org.igorborba.java23","l":"MarkdownDoc"},{"p":"org.igorborba.java18","l":"SnippetsDoc"}];updateSearchResults();

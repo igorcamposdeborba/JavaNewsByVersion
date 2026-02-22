@@ -5,13 +5,13 @@ package org.igorborba.java23;
  *
  * @author Igor Borba
  */
-public class MarkdownComments {
+public class MarkdownDoc {
 
     /// **Default construtor**
     /// ~~~
-    /// public MarkdownComments(){}
+    /// public MarkdownDoc(){}
     /// ~~~
-    public MarkdownComments(){}
+    public MarkdownDoc(){}
 
     /**
      * Method to says hello
