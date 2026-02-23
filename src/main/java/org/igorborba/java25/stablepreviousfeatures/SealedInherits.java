@@ -1,6 +1,6 @@
 package org.igorborba.java25.stablepreviousfeatures;
 
-// todo: sealed class (permits) only these subclasses inherits, to security
+// todo: sealed class (permits) only these subclasses inherits, to security. Has as well non-sealed
 sealed interface Shape permits Square, Circle {
     public abstract double area();
 }
