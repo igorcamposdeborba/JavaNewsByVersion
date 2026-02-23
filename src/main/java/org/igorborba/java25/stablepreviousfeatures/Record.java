@@ -16,7 +16,7 @@ Restrictions:
 
 public class Record {
     public static void main(String[] args) {
-        ResultValue totalAmount = new ResultValue(1000, "Igor Borba");
+        ResultValue totalAmount = new ResultValue(1000, "BLR");
 //        totalAmount.setAmount(2000); // haven't setter because it is immutable
 
         System.out.println(totalAmount.amount()); // get id is created automatically by RECORD
