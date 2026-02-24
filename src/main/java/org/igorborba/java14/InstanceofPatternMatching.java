@@ -1,7 +1,7 @@
 package org.igorborba.java14;
 
 interface Animal {
-    public void makeSound();
+    void makeSound();
 }
 class Dog implements  Animal {
     public Dog(){}
